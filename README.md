@@ -1,4 +1,4 @@
-# 🙏 Vanakkam, World!:
+# 🙏 Vanakkam, World!
 Hi, I'm Dharun Kumar! Full stack developer who loves art, movies, and memes. I code, I sketch, and I probably have a meme for every situation!"
 
 
