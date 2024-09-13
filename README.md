@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dharun Kumar!
-Full stack developer who loves art, movies, and memes.
+_**Full stack developer who loves art, movies, and memes.**_
 
 
 ## 🌐 Socials:
