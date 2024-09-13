@@ -3,7 +3,7 @@ _**Full stack developer who loves art, movies, and memes.**_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20skyblue?style=flat&logo=linkedin&logoColor=white&color=grey)](https://linkedin.com/in/dharunkumar-t)
 [![Mail](https://img.shields.io/badge/Mail%20-%20skyblue?style=flat&logo=gmail&logoColor=white&color=grey)](mailto:thedharunkumar@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram%20-%20skyblue?style=flat&logo=linkedin&logoColor=white&color=grey)](https://t.me/specimenone) 
+[![Telegram](https://img.shields.io/badge/Telegram%20-%20skyblue?style=flat&logo=telegram&logoColor=white&color=grey)](https://t.me/specimenone) 
 
 ## Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,linux,react,nodejs,mongodb,mysql,expressjs,django)
