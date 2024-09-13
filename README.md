@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Dharun Kumar!
 _**Full stack developer who loves art, movies, and memes.**_
 
-
-## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharunkumar-t)
 [![Mail](https://img.shields.io/badge/Mail%20-%20skyblue?style=flat&logo=gmail&logoColor=white&color=%231572B6)](mailto:thedharunkumar@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram%20-%20skyblue?style=flat&logo=telegram&logoColor=white&color=%231572B6)](https://t.me/specimenone) 
