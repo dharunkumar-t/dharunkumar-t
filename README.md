@@ -17,6 +17,14 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=dharunkumar-t&icon=0&color=0" alt="Visit Count"/>
+  </a>
+</div>
+
+
+
 ## Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,linux,react,nodejs,mongodb,mysql,expressjs,django)
 ## GitHub Stats:
@@ -27,9 +35,3 @@
 </div>
 
 ---
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dharunkumar-t&icon=0&color=0" alt="Visit Count"/>
-  </a>
-</div>
-
