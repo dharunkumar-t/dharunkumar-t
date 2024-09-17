@@ -20,9 +20,16 @@
 ## Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,linux,react,nodejs,mongodb,mysql,expressjs,django)
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dharunkumar-t&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dharunkumar-t&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharunkumar-t&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharunkumar-t&theme=dark&hide_border=false&include_all_commits=false&count_private=true" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharunkumar-t&theme=dark&hide_border=false" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharunkumar-t&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150px"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dharunkumar-t&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=dharunkumar-t&icon=0&color=0" alt="Visit Count"/>
+  </a>
+</div>
+
