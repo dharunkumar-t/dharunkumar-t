@@ -1,10 +1,21 @@
-# 👋 Hi, I'm Dharun Kumar!
-_**Full stack developer who loves art, movies, and memes.**_
+<h1 align="center">👋 Hi, I'm Dharun Kumar!</h1>
+<h4 align="center"><b><i>Full stack developer who loves art, movies, and memes.</i></b></h4>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20skyblue?style=flat&logo=linkedin&logoColor=white&color=grey)](https://linkedin.com/in/dharunkumar-t)
-[![Mail](https://img.shields.io/badge/Mail%20-%20skyblue?style=flat&logo=gmail&logoColor=white&color=grey)](mailto:thedharunkumar@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram%20-%20skyblue?style=flat&logo=telegram&logoColor=white&color=grey)](https://t.me/specimenone)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow%20-%20grey?style=flat&logo=stackoverflow&logoColor=white&color=grey)](https://stackoverflow.com/users/25184880/dharun-kumar) 
+
+<p align="center">
+  <a href="https://linkedin.com/in/dharunkumar-t">
+    <img src="https://img.shields.io/badge/LinkedIn%20-%20skyblue?style=flat&logo=linkedin&logoColor=white&color=grey" />
+  </a>
+  <a href="mailto:thedharunkumar@gmail.com">
+    <img src="https://img.shields.io/badge/Mail%20-%20skyblue?style=flat&logo=gmail&logoColor=white&color=grey" />
+  </a>
+  <a href="https://t.me/specimenone">
+    <img src="https://img.shields.io/badge/Telegram%20-%20skyblue?style=flat&logo=telegram&logoColor=white&color=grey" />
+  </a>
+  <a href="https://stackoverflow.com/users/25184880/dharun-kumar">
+    <img src="https://img.shields.io/badge/StackOverflow%20-%20grey?style=flat&logo=stackoverflow&logoColor=white&color=grey" />
+  </a>
+</p>
 
 ## Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,linux,react,nodejs,mongodb,mysql,expressjs,django)
