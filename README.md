@@ -2,11 +2,8 @@
     &nbsp;
     <u><b>Dharun Kumar</b></u>
 
-    I'm a Full Stack Developer.
+    I'm a Software Engineer.
     I love art, cinema, memes and goofy silly pictures of dogs and cats.
-
-    TechStack: Python, C, Html, Css, Javascript, Nodejs, React, Express, MongoDB
-               linux, Django, MySQL.
 
     Reach out:
 
