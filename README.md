@@ -9,6 +9,5 @@
 
     &rdsh; <a href="https://linkedin.com/in/dharunkumar-t">linkedin</a>
     &rdsh; <a href="mailto:thedharunkumar@gmail.com">thedharunkumar@gmail.com</a>
-    &rdsh; <a href="https://t.me/uyarthinai">telegram</a>
     &nbsp;
 </pre>
